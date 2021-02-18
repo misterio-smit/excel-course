@@ -1,0 +1,19 @@
+Webpack (import/exports) (Инструмент сборки приложения)
+    Bable
+    Scss
+    Eslint
+    2 Mods
+        -Dev
+            Dev Server,(Автоматически перезагружает сервер если были сделаны какие то изменения в коде)
+            Sourse Maps,(Исходные карты для Scss файлов)
+            Eslint,(Инструмент поддержжания чистоты кода)
+            Not Minified Js & CSS(Не минифицированный код)
+        -Prod
+         Minified Code
+Git
+
+    Priduction
+       1.0.0
+
+    Development
+       1.0.2
